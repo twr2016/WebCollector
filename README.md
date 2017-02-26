@@ -1,2 +1,26 @@
 # WebCollector
 大二下课程设计网页爬虫
+<p>登录界面</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png?raw=true)
+<p>4.1带图标程序展示图</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/4.1%E5%B8%A6%E5%9B%BE%E6%A0%87%E7%A8%8B%E5%BA%8F%E5%B1%95%E7%A4%BA%E5%9B%BE.png?raw=true)
+<p>4.1程序展示图</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/4.1%E7%A8%8B%E5%BA%8F%E5%B1%95%E7%A4%BA%E5%9B%BE.png?raw=true)
+<p>4.2带图标程序展示图</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/4.2%E5%B8%A6%E5%9B%BE%E6%A0%87%E7%A8%8B%E5%BA%8F%E5%B1%95%E7%A4%BA%E5%9B%BE.png?raw=true)
+<p>4.2程序展示图1</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/4.2%E7%A8%8B%E5%BA%8F%E5%B1%95%E7%A4%BA%E5%9B%BE1.png?raw=true)
+<p>4.2程序展示图2</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/4.2%E7%A8%8B%E5%BA%8F%E5%B1%95%E7%A4%BA%E5%9B%BE2.png?raw=true)
+<p>4.3带图标打印数据库内容</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/4.3%E5%B8%A6%E5%9B%BE%E6%A0%87%E6%89%93%E5%8D%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E5%86%85%E5%AE%B9.png?raw=true)
+<p>4.3打印数据库内容带图标</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/4.3%E6%89%93%E5%8D%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E5%86%85%E5%AE%B9%E5%B8%A6%E5%9B%BE%E6%A0%87.png?raw=true)
+<p>4.3程序展示图1</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/4.3%E7%A8%8B%E5%BA%8F%E5%B1%95%E7%A4%BA%E5%9B%BE1.png?raw=true)
+<p>4.3程序展示图2</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/4.3%E7%A8%8B%E5%BA%8F%E5%B1%95%E7%A4%BA%E5%9B%BE2.png?raw=true)
+<p>写到数据库中的内容</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%86%99%E5%85%A5%E5%88%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E7%9A%84%E5%86%85%E5%AE%B9.png?raw=true)
+<p>写到数据库中的内容2</p>
+![](https://github.com/twr2016/WebCollector/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%86%99%E5%85%A5%E5%88%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E7%9A%84%E5%86%85%E5%AE%B92.png?raw=true)
